@@ -1,66 +1,67 @@
 export const monthsFull = [
-  'January',
-  'February',
-  'March',
-  'April',
-  'May',
-  'June',
-  'July',
-  'August',
-  'September',
-  'October',
-  'November',
-  'December'
+  'Janvier',
+  'Février',
+  'Mars',
+  'Avril',
+  'Mai',
+  'Juin',
+  'Juillet',
+  'Août',
+  'Septembre',
+  'Octobre',
+  'Novembre',
+  'Décembre'
 ];
+
 export const monthsShort = [
-  'Jan',
-  'Feb',
-  'Mar',
-  'Apr',
-  'May',
-  'Jun',
-  'Jul',
-  'Aug',
-  'Sep',
-  'Oct',
-  'Nov',
-  'Dec'
+  'Janv.',
+  'Févr.',
+  'Mars',
+  'Avr.',
+  'Mai',
+  'Juin',
+  'Juil.',
+  'Août',
+  'Sept.',
+  'Oct.',
+  'Nov.',
+  'Déc.'
 ];
 
 export const days = [
   {
-    micro: 'S',
-    short: 'Sun',
-    full: 'Sunday'
+    micro: 'D',
+    short: 'Dim.',
+    full: 'Dimanche'
+  },
+  {
+    micro: 'L',
+    short: 'Lun.',
+    full: 'Lundi'
   },
   {
     micro: 'M',
-    short: 'Mon',
-    full: 'Monday'
+    short: 'Mar.',
+    full: 'Mardi'
   },
   {
-    micro: 'T',
-    short: 'Tue',
-    full: 'Tuesday'
+    micro: 'M',
+    short: 'Mer.',
+    full: 'Mercredi'
   },
   {
-    micro: 'W',
-    short: 'Wed',
-    full: 'Wednesday'
+    micro: 'J',
+    short: 'Jeu.',
+    full: 'Jeudi'
   },
   {
-    micro: 'T',
-    short: 'Thu',
-    full: 'Thursday'
-  },
-  {
-    micro: 'F',
-    short: 'Fri',
-    full: 'Friday'
+    micro: 'V',
+    short: 'Ven.',
+    full: 'Vendredi'
   },
   {
     micro: 'S',
-    short: 'Sat',
-    full: 'Saturday'
+    short: 'Sam.',
+    full: 'Samedi'
   }
 ];
